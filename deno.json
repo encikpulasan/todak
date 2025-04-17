@@ -35,5 +35,14 @@
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
   },
-  "nodeModulesDir": "auto"
+  "nodeModulesDir": "auto",
+  "deploy": {
+    "project": "ad628b50-c3e1-4cdf-b187-d4c3cb7834a6",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "main.ts",
+    "denoVersion": "1.42.0"
+  }
 }

@@ -78,7 +78,7 @@ const features: Feature[] = [
       "TVET graduate profiles and success stories",
       "Industry partnership information and direct employment pathways",
     ],
-    color: "yellow",
+    color: "amber",
   },
   {
     id: 6,

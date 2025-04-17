@@ -4,11 +4,11 @@ import { ChartLibLoader } from "./ChartLibLoader.tsx";
 
 const stats = [
   { id: 1, name: "Public Universities", value: "20" },
-  { id: 2, name: "Private Higher Ed Institutions", value: "103" },
-  { id: 3, name: "TVET Institutions", value: "1,000+" },
-  { id: 4, name: "TVET Students", value: "230,000" },
+  { id: 2, name: "Private Institutions", value: "103" },
   { id: 5, name: "Polytechnics", value: "36" },
   { id: 6, name: "Community Colleges", value: "105" },
+  { id: 3, name: "TVET Institutions", value: "1,000+" },
+  { id: 4, name: "TVET Students", value: "230,000" },
 ];
 
 function PlatformChart() {

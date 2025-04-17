@@ -78,6 +78,14 @@ This will watch the project directory and restart as necessary.
 - Adjusted spacing and alignment for better readability
 - Remove Job Market Insights
 
+### v1.4.3 (Color Rendering Fix)
+
+- Fixed amber/yellow color rendering issues in Features and Platform components
+- Added safelist configuration in Tailwind to preserve color utility classes
+- Implemented special case handling for amber colors in dynamic class generation
+- Ensured consistent color display across light and dark modes
+- Improved TVET Showcase component appearance with proper color styling
+
 ## Features
 
 - Interactive visualization of Malaysian job market data
