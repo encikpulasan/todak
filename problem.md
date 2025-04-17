@@ -382,10 +382,10 @@ replicated through institutional data alone.
 │  Insights ││• Structured    │         │• Diversity   │  │  Ecosystem   │
 │• Context- ││  Framework     │         │  tion        │  │• Realistic   │
 │  Specific ││• Engagement    │         │  Representa- │  │  Expectations│
-│  Relevance││  Incentives    │         │  tion        │  │• Educational │
+│  Relevance││• Incentives    │         │  tion        │  │• Educational │
 │• Trust and││• Multi-Channel │         │  Maintenance │  │  Gap         │
 │  Credibil-││• Collection    │         │• Privacy and │  │  Identification│
-│  ity      ││               │         │  Ethics      │  │• Professional│
+│  ity      ││•               │         │  Ethics      │  │• Professional│
 │           ││               │         │              │  │  Connections │
 └───────────┘└────────────────┘         └──────────────┘  └──────────────┘
 ```
@@ -510,3 +510,30 @@ process for EduPath Malaysia:
 Note: These citations represent resources consulted during the conceptualization
 of EduPath Malaysia. The actual development of the platform would require more
 extensive research and data collection from additional authoritative sources.
+
+Based on the most recent information, Malaysia has the following official count
+of higher education institutions: As of 2023, Malaysia has: 20 public
+universities 36 polytechnics 105 community colleges 384 private higher education
+institutions Additionally, according to the Wikipedia data, these public
+universities are categorized as: 5 Research universities 3 Comprehensive
+universities 5 Focused universities 4 Technical universities 3 Islamic
+universities For private institutions, there are: 54 private universities 39
+private university colleges 10 foreign university branch campuses 331 private
+colleges This information comes directly from the Malaysian Ministry of Higher
+Education (Kementerian Pendidikan Tinggi) official website and the comprehensive
+Wikipedia entry on education in Malaysia, which cites the UNESCO Regional Office
+for Education in Asia.
+
+Based on the information from Wikipedia, as of 2023, Malaysia has: Public
+Universities: 20 5 Research Universities (University of Malaya, National
+University of Malaysia, University of Putra Malaysia, University of Science
+Malaysia, University of Technology Malaysia) 3 Comprehensive Universities 5
+Focused Universities (specialized in education, science and technology,
+military, management, and entrepreneurship) 4 Technical Universities 3 Islamic
+Universities Public Polytechnics: 36 3 Premier Polytechnics with university
+status 28 Conventional Polytechnics 5 METrO Polytechnics Private Higher
+Education Institutions: Over 400 54 Private Universities 39 Private University
+Colleges 10 Foreign University Branch Campuses 331 Private Colleges This means
+Malaysia has a total of 20 public universities and approximately 103 private
+higher education institutions (including universities, university colleges, and
+branch campuses) that can award degrees.
