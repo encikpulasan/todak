@@ -6,8 +6,11 @@ import * as $_404 from "./routes/_404.tsx";
 import * as $_app from "./routes/_app.tsx";
 import * as $api_joke from "./routes/api/joke.ts";
 import * as $greet_name_ from "./routes/greet/[name].tsx";
+import * as $images_image_ from "./routes/images/[...image].ts";
 import * as $index from "./routes/index.tsx";
+import * as $invest from "./routes/invest.tsx";
 import * as $App from "./islands/App.tsx";
+import * as $InvestorPresentation from "./islands/InvestorPresentation.tsx";
 import type { Manifest } from "$fresh/server.ts";
 
 const manifest = {
@@ -16,10 +19,13 @@ const manifest = {
     "./routes/_app.tsx": $_app,
     "./routes/api/joke.ts": $api_joke,
     "./routes/greet/[name].tsx": $greet_name_,
+    "./routes/images/[...image].ts": $images_image_,
     "./routes/index.tsx": $index,
+    "./routes/invest.tsx": $invest,
   },
   islands: {
     "./islands/App.tsx": $App,
+    "./islands/InvestorPresentation.tsx": $InvestorPresentation,
   },
   baseUrl: import.meta.url,
 } satisfies Manifest;

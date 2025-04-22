@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f5f3ff" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" fill="#5b21b6" text-anchor="middle" font-weight="bold">Next Steps</text>
+  
+  <!-- Timeline -->
+  <line x1="100" y1="150" x2="700" y2="150" stroke="#7c3aed" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Milestones -->
+  <!-- Q1 2023 -->
+  <circle cx="150" cy="150" r="15" fill="#8b5cf6"/>
+  <text x="150" y="190" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95" text-anchor="middle" font-weight="bold">Q1 2023</text>
+  <rect x="100" y="200" width="100" height="80" rx="8" ry="8" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="150" y="230" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Seed Round</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Completion</text>
+  <text x="150" y="270" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">RM 2M</text>
+  
+  <!-- Q2 2023 -->
+  <circle cx="300" cy="150" r="15" fill="#8b5cf6"/>
+  <text x="300" y="190" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95" text-anchor="middle" font-weight="bold">Q2 2023</text>
+  <rect x="250" y="200" width="100" height="80" rx="8" ry="8" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="300" y="230" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Beta Launch</text>
+  <text x="300" y="250" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">10 Partner</text>
+  <text x="300" y="270" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Institutions</text>
+  
+  <!-- Q3 2023 -->
+  <circle cx="450" cy="150" r="15" fill="#8b5cf6"/>
+  <text x="450" y="190" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95" text-anchor="middle" font-weight="bold">Q3 2023</text>
+  <rect x="400" y="200" width="100" height="80" rx="8" ry="8" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="450" y="230" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Full Platform</text>
+  <text x="450" y="250" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Launch</text>
+  <text x="450" y="270" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Nationwide</text>
+  
+  <!-- Q4 2023 -->
+  <circle cx="600" cy="150" r="15" fill="#8b5cf6"/>
+  <text x="600" y="190" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95" text-anchor="middle" font-weight="bold">Q4 2023</text>
+  <rect x="550" y="200" width="100" height="80" rx="8" ry="8" fill="#ddd6fe" stroke="#7c3aed" stroke-width="2"/>
+  <text x="600" y="230" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Series A</text>
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">Preparation</text>
+  <text x="600" y="270" font-family="Arial, sans-serif" font-size="12" fill="#4c1d95" text-anchor="middle">RM 10M Target</text>
+  
+  <!-- Key Objectives -->
+  <text x="400" y="320" font-family="Arial, sans-serif" font-size="18" fill="#5b21b6" text-anchor="middle" font-weight="bold">Key Objectives</text>
+  
+  <g transform="translate(150, 350)">
+    <!-- Objective 1 -->
+    <circle cx="20" cy="15" r="8" fill="#7c3aed"/>
+    <text x="40" y="20" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95">Reach 100,000 active student users</text>
+    
+    <!-- Objective 2 -->
+    <circle cx="20" cy="45" r="8" fill="#7c3aed"/>
+    <text x="40" y="50" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95">Partner with 50+ educational institutions</text>
+    
+    <!-- Objective 3 -->
+    <circle cx="20" cy="75" r="8" fill="#7c3aed"/>
+    <text x="40" y="80" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95">Expand AI capabilities with predictive analytics</text>
+    
+    <!-- Objective 4 -->
+    <circle cx="20" cy="105" r="8" fill="#7c3aed"/>
+    <text x="40" y="110" font-family="Arial, sans-serif" font-size="14" fill="#4c1d95">Begin expansion to neighboring ASEAN markets</text>
+  </g>
+  
+  <!-- Footnote -->
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">Timeline subject to market conditions and achievement of key performance indicators</text>
+</svg> 

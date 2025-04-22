@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F0F9FF" opacity="0.3" rx="20"/>
+  
+  <!-- Title and Subtitle -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Implementation Timeline</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">EduPath Malaysia's 24-Month Product Roadmap</text>
+  
+  <!-- Timeline Base -->
+  <line x1="100" y1="280" x2="700" y2="280" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Timeline Points -->
+  <!-- Phase 1: Initial Development -->
+  <circle cx="160" cy="280" r="15" fill="#0EA5E9"/>
+  <line x1="160" y1="280" x2="160" y2="180" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  
+  <!-- Phase 2: MVP Launch -->
+  <circle cx="280" cy="280" r="15" fill="#0EA5E9"/>
+  <line x1="280" y1="280" x2="280" y2="180" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  
+  <!-- Phase 3: School Partnerships -->
+  <circle cx="400" cy="280" r="15" fill="#0EA5E9"/>
+  <line x1="400" y1="280" x2="400" y2="180" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  
+  <!-- Phase 4: Feature Expansion -->
+  <circle cx="520" cy="280" r="15" fill="#0EA5E9"/>
+  <line x1="520" y1="280" x2="520" y2="180" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  
+  <!-- Phase 5: Scale & Optimize -->
+  <circle cx="640" cy="280" r="15" fill="#0EA5E9"/>
+  <line x1="640" y1="280" x2="640" y2="180" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  
+  <!-- Timeline Labels -->
+  <text x="160" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Month 3</text>
+  <text x="280" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Month 6</text>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Month 12</text>
+  <text x="520" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Month 18</text>
+  <text x="640" y="310" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Month 24</text>
+  
+  <!-- Phase Description Boxes -->
+  <!-- Phase 1 -->
+  <g transform="translate(160, 180)">
+    <rect x="-100" y="-70" width="200" height="70" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Development Phase</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Core platform architecture</text>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Initial curriculum content</text>
+  </g>
+  
+  <!-- Phase 2 -->
+  <g transform="translate(280, 180)">
+    <rect x="-100" y="-70" width="200" height="70" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">MVP Launch</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Beta release to test users</text>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Initial marketing campaign</text>
+  </g>
+  
+  <!-- Phase 3 -->
+  <g transform="translate(400, 180)">
+    <rect x="-100" y="-70" width="200" height="70" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">School Partnerships</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• 10 pilot schools onboarded</text>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Teacher dashboard launch</text>
+  </g>
+  
+  <!-- Phase 4 -->
+  <g transform="translate(520, 180)">
+    <rect x="-100" y="-70" width="200" height="70" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Feature Expansion</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• AI-driven personalization</text>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• Premium content library</text>
+  </g>
+  
+  <!-- Phase 5 -->
+  <g transform="translate(640, 180)">
+    <rect x="-100" y="-70" width="200" height="70" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="-45" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Scale &amp; Optimize</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• 100+ school partnerships</text>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">• National market penetration</text>
+  </g>
+  
+  <!-- Key Development Areas -->
+  <!-- Dev Area 1 -->
+  <g transform="translate(160, 380)">
+    <rect x="-100" y="-30" width="200" height="60" rx="10" fill="#0C4A6E" opacity="0.1" stroke="#0C4A6E" stroke-width="1"/>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Core Platform</text>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#0C4A6E" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Backend &amp; Frontend Development</text>
+  </g>
+  
+  <!-- Dev Area 2 -->
+  <g transform="translate(400, 380)">
+    <rect x="-100" y="-30" width="200" height="60" rx="10" fill="#0C4A6E" opacity="0.1" stroke="#0C4A6E" stroke-width="1"/>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Content Creation</text>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#0C4A6E" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Malaysian Curriculum Integration</text>
+  </g>
+  
+  <!-- Dev Area 3 -->
+  <g transform="translate(640, 380)">
+    <rect x="-100" y="-30" width="200" height="60" rx="10" fill="#0C4A6E" opacity="0.1" stroke="#0C4A6E" stroke-width="1"/>
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Marketing &amp; Partnerships</text>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#0C4A6E" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">School &amp; Institution Outreach</text>
+  </g>
+  
+  <!-- Key Milestones -->
+  <rect x="150" y="470" width="500" height="100" rx="10" fill="white" stroke="#0EA5E9" stroke-width="1"/>
+  <text x="400" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#0C4A6E">Key Milestones</text>
+  
+  <!-- Milestone 1 -->
+  <g transform="translate(250, 525)">
+    <circle cx="0" cy="0" r="10" fill="#0EA5E9"/>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="10" fill="white">1</text>
+    <text x="25" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">User Targets:</text>
+    <text x="135" y="5" font-family="Arial, sans-serif" font-size="14" fill="#475569">10K by month 6, 50K by month 12</text>
+  </g>
+  
+  <!-- Milestone 2 -->
+  <g transform="translate(250, 555)">
+    <circle cx="0" cy="0" r="10" fill="#0EA5E9"/>
+    <text x="0" y="0" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="10" fill="white">2</text>
+    <text x="25" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Revenue Goal:</text>
+    <text x="135" y="5" font-family="Arial, sans-serif" font-size="14" fill="#475569">RM 5.8M by month 24</text>
+  </g>
+</svg> 

@@ -1,11 +1,21 @@
-# dotenv environment variable files
+# The Deno Fresh .gitignore file
+
+# Fresh build directory
+_fresh/
+
+# npm dependencies
+node_modules/
+
+# Environment variables
 .env
+
+# dotenv environment variable files
 .env.development.local
 .env.test.local
 .env.production.local
 .env.local
 
-# Fresh build directory
-_fresh/
-# npm dependencies
-node_modules/
+problem.md
+monitize.md
+investor_pitch.md
+technology.md

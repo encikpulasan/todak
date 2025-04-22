@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" rx="20"/>
+  
+  <!-- Title and Subtitle -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Growth Projections</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">EduPath Malaysia's 5-Year Expansion Plan</text>
+  
+  <!-- Chart Background -->
+  <rect x="100" y="120" width="600" height="350" fill="white" stroke="#e2e8f0" stroke-width="1" rx="10"/>
+  
+  <!-- Grid Lines - Horizontal -->
+  <line x1="100" y1="220" x2="700" y2="220" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="100" y1="270" x2="700" y2="270" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="100" y1="320" x2="700" y2="320" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="100" y1="370" x2="700" y2="370" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="100" y1="420" x2="700" y2="420" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Grid Lines - Vertical -->
+  <line x1="200" y1="120" x2="200" y2="470" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="300" y1="120" x2="300" y2="470" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="400" y1="120" x2="400" y2="470" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="500" y1="120" x2="500" y2="470" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="600" y1="120" x2="600" y2="470" stroke="#e2e8f0" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- X-Axis -->
+  <line x1="100" y1="470" x2="700" y2="470" stroke="#475569" stroke-width="2"/>
+  
+  <!-- X-Axis Labels -->
+  <text x="100" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 0</text>
+  <text x="200" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 1</text>
+  <text x="300" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 2</text>
+  <text x="400" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 3</text>
+  <text x="500" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 4</text>
+  <text x="600" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 5</text>
+  <text x="700" y="490" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">Year 6</text>
+  
+  <!-- Y-Axis -->
+  <line x1="100" y1="120" x2="100" y2="470" stroke="#475569" stroke-width="2"/>
+  
+  <!-- Y-Axis User Growth Labels -->
+  <text x="75" y="470" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">0</text>
+  <text x="75" y="420" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">20K</text>
+  <text x="75" y="370" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">40K</text>
+  <text x="75" y="320" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">60K</text>
+  <text x="75" y="270" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">80K</text>
+  <text x="75" y="220" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">100K</text>
+  <text x="75" y="170" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">120K</text>
+  <text x="75" y="120" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#0ea5e9">140K</text>
+  
+  <!-- Y-Axis Revenue Labels (Right side) -->
+  <text x="725" y="470" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 0</text>
+  <text x="725" y="420" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 3M</text>
+  <text x="725" y="370" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 6M</text>
+  <text x="725" y="320" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 9M</text>
+  <text x="725" y="270" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 12M</text>
+  <text x="725" y="220" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 15M</text>
+  <text x="725" y="170" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 18M</text>
+  <text x="725" y="120" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#f97316">RM 21M</text>
+  
+  <!-- User Growth Line -->
+  <polyline points="100,465 200,440 300,410 400,360 500,290 600,220 700,150" 
+            fill="none" stroke="#0ea5e9" stroke-width="3" stroke-linejoin="round"/>
+            
+  <!-- User Data Points -->
+  <circle cx="100" cy="465" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="200" cy="440" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="300" cy="410" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="400" cy="360" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="500" cy="290" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="600" cy="220" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <circle cx="700" cy="150" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  
+  <!-- Revenue Growth Line -->
+  <polyline points="100,466 200,445 300,420 400,380 500,330 600,270 700,210" 
+            fill="none" stroke="#f97316" stroke-width="3" stroke-linejoin="round"/>
+            
+  <!-- Revenue Data Points -->
+  <circle cx="100" cy="466" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="200" cy="445" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="300" cy="420" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="400" cy="380" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="500" cy="330" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="600" cy="270" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <circle cx="700" cy="210" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  
+  <!-- Data Values - User Growth -->
+  <text x="100" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">500</text>
+  <text x="200" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">6K</text>
+  <text x="300" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">12K</text>
+  <text x="400" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">28K</text>
+  <text x="500" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">55K</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">95K</text>
+  <text x="700" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#0ea5e9" font-weight="bold">125K</text>
+  
+  <!-- Data Values - Revenue -->
+  <text x="100" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 0.1M</text>
+  <text x="200" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 1.2M</text>
+  <text x="300" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 2.5M</text>
+  <text x="400" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 5.8M</text>
+  <text x="500" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 8.7M</text>
+  <text x="600" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 12.5M</text>
+  <text x="700" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#f97316" font-weight="bold">RM 16.2M</text>
+  
+  <!-- Legend -->
+  <rect x="250" y="515" width="300" height="60" rx="10" fill="white" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <!-- Legend - User Growth -->
+  <line x1="270" y1="535" x2="330" y2="535" stroke="#0ea5e9" stroke-width="3"/>
+  <circle cx="300" cy="535" r="6" fill="white" stroke="#0ea5e9" stroke-width="2"/>
+  <text x="340" y="540" font-family="Arial, sans-serif" font-size="14" fill="#475569">Active User Growth</text>
+  
+  <!-- Legend - Revenue -->
+  <line x1="270" y1="555" x2="330" y2="555" stroke="#f97316" stroke-width="3"/>
+  <circle cx="300" cy="555" r="6" fill="white" stroke="#f97316" stroke-width="2"/>
+  <text x="340" y="560" font-family="Arial, sans-serif" font-size="14" fill="#475569">Annual Revenue</text>
+  
+  <!-- Growth Insights Box -->
+  <rect x="100" y="515" width="140" height="60" rx="10" fill="#0ea5e9" opacity="0.1" stroke="#0ea5e9" stroke-width="1"/>
+  <text x="170" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0C4A6E">Growth Rate</text>
+  <text x="170" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Users: +71% CAGR</text>
+  <text x="170" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Revenue: +93% CAGR</text>
+  
+  <!-- Target Box -->
+  <rect x="560" y="515" width="140" height="60" rx="10" fill="#f97316" opacity="0.1" stroke="#f97316" stroke-width="1"/>
+  <text x="630" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c2d12">Target Metrics</text>
+  <text x="630" y="555" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7c2d12">Year 5: 95K Users</text>
+  <text x="630" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#7c2d12">Year 5: RM 12.5M</text>
+  
+  <!-- Key Growth Driver Annotations -->
+  <path d="M 200,440 Q 180,425 160,430" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="140" y="430" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#475569">Launch</text>
+  
+  <path d="M 400,360 Q 380,340 360,335" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="340" y="330" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#475569">School Partnerships</text>
+  
+  <path d="M 600,220 Q 580,200 560,195" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="540" y="190" text-anchor="end" font-family="Arial, sans-serif" font-size="10" fill="#475569">Int'l Expansion</text>
+</svg> 

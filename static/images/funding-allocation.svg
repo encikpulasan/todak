@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F0F9FF" opacity="0.3" rx="20"/>
+  
+  <!-- Title and Subtitle -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Funding Allocation</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">EduPath Malaysia's Investment Strategy</text>
+  
+  <!-- Main Pie Chart -->
+  <g transform="translate(300, 300)">
+    <!-- Development (35%) -->
+    <path d="M 0 0 L 0 -150 A 150 150 0 0 1 129.9 -75 Z" fill="#0369A1"/>
+    
+    <!-- Marketing (25%) -->
+    <path d="M 0 0 L 129.9 -75 A 150 150 0 0 1 129.9 75 Z" fill="#0284C7"/>
+    
+    <!-- Operations (20%) -->
+    <path d="M 0 0 L 129.9 75 A 150 150 0 0 1 0 150 Z" fill="#0EA5E9"/>
+    
+    <!-- Content (15%) -->
+    <path d="M 0 0 L 0 150 A 150 150 0 0 1 -129.9 75 Z" fill="#38BDF8"/>
+    
+    <!-- Reserve (5%) -->
+    <path d="M 0 0 L -129.9 75 A 150 150 0 0 1 -129.9 -75 Z" fill="#7DD3FC"/>
+    
+    <!-- Partnerships (0%) -->
+    <path d="M 0 0 L -129.9 -75 A 150 150 0 0 1 0 -150 Z" fill="#BAE6FD"/>
+    
+    <!-- Center white circle -->
+    <circle cx="0" cy="0" r="60" fill="white"/>
+    
+    <!-- Center Text -->
+    <text x="0" y="-10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#0C4A6E">RM 4M</text>
+    <text x="0" y="15" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#0C4A6E">Seed</text>
+    <text x="0" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#0C4A6E">Round</text>
+  </g>
+  
+  <!-- Category Labels and Values -->
+  <!-- Development -->
+  <g transform="translate(550, 150)">
+    <rect x="-20" y="-15" width="250" height="30" rx="5" fill="#0369A1" opacity="0.1" stroke="#0369A1" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="#0369A1"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Development: 35%</text>
+    <text x="125" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#0C4A6E">RM 1.4M</text>
+  </g>
+  
+  <!-- Marketing -->
+  <g transform="translate(550, 190)">
+    <rect x="-20" y="-15" width="250" height="30" rx="5" fill="#0284C7" opacity="0.1" stroke="#0284C7" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="#0284C7"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Marketing: 25%</text>
+    <text x="125" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#0C4A6E">RM 1.0M</text>
+  </g>
+  
+  <!-- Operations -->
+  <g transform="translate(550, 230)">
+    <rect x="-20" y="-15" width="250" height="30" rx="5" fill="#0EA5E9" opacity="0.1" stroke="#0EA5E9" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Operations: 20%</text>
+    <text x="125" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#0C4A6E">RM 0.8M</text>
+  </g>
+  
+  <!-- Content -->
+  <g transform="translate(550, 270)">
+    <rect x="-20" y="-15" width="250" height="30" rx="5" fill="#38BDF8" opacity="0.1" stroke="#38BDF8" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="#38BDF8"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Content: 15%</text>
+    <text x="125" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#0C4A6E">RM 0.6M</text>
+  </g>
+  
+  <!-- Reserve -->
+  <g transform="translate(550, 310)">
+    <rect x="-20" y="-15" width="250" height="30" rx="5" fill="#7DD3FC" opacity="0.1" stroke="#7DD3FC" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="#7DD3FC"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Reserve: 5%</text>
+    <text x="125" y="5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#0C4A6E">RM 0.2M</text>
+  </g>
+  
+  <!-- Development Breakdown -->
+  <g transform="translate(170, 420)">
+    <rect x="-100" y="-80" width="200" height="160" rx="10" fill="#F0F9FF" stroke="#0369A1" stroke-width="1"/>
+    <text x="0" y="-55" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0369A1">Development</text>
+    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">RM 1.4M</text>
+    
+    <!-- Mini Pie Chart -->
+    <g transform="translate(0, 5) scale(0.4)">
+      <!-- Frontend (40%) -->
+      <path d="M 0 0 L 0 -60 A 60 60 0 0 1 57.6 15 Z" fill="#0369A1" opacity="0.8"/>
+      
+      <!-- Backend (35%) -->
+      <path d="M 0 0 L 57.6 15 A 60 60 0 0 1 -37.8 46.8 Z" fill="#0369A1" opacity="0.6"/>
+      
+      <!-- Mobile (25%) -->
+      <path d="M 0 0 L -37.8 46.8 A 60 60 0 0 1 -57.6 -15 Z" fill="#0369A1" opacity="0.4"/>
+      
+      <!-- Other (0%) -->
+      <path d="M 0 0 L -57.6 -15 A 60 60 0 0 1 0 -60 Z" fill="#0369A1" opacity="0.2"/>
+    </g>
+    
+    <!-- Breakdown Details -->
+    <text x="-60" y="45" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Engineering Team: 65%</text>
+    <text x="-60" y="60" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Infrastructure: 20%</text>
+    <text x="-60" y="75" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Testing &amp; QA: 15%</text>
+  </g>
+  
+  <!-- Marketing Breakdown -->
+  <g transform="translate(400, 420)">
+    <rect x="-100" y="-80" width="200" height="160" rx="10" fill="#F0F9FF" stroke="#0284C7" stroke-width="1"/>
+    <text x="0" y="-55" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0284C7">Marketing</text>
+    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">RM 1.0M</text>
+    
+    <!-- Mini Pie Chart -->
+    <g transform="translate(0, 5) scale(0.4)">
+      <!-- Digital (45%) -->
+      <path d="M 0 0 L 0 -60 A 60 60 0 0 1 50.9 -31.8 Z" fill="#0284C7" opacity="0.8"/>
+      
+      <!-- Partnerships (30%) -->
+      <path d="M 0 0 L 50.9 -31.8 A 60 60 0 0 1 30 51.6 Z" fill="#0284C7" opacity="0.6"/>
+      
+      <!-- Events (25%) -->
+      <path d="M 0 0 L 30 51.6 A 60 60 0 0 1 -60 0 Z" fill="#0284C7" opacity="0.4"/>
+      
+      <!-- Other (0%) -->
+      <path d="M 0 0 L -60 0 A 60 60 0 0 1 0 -60 Z" fill="#0284C7" opacity="0.2"/>
+    </g>
+    
+    <!-- Breakdown Details -->
+    <text x="-60" y="45" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Digital Campaigns: 45%</text>
+    <text x="-60" y="60" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• School Outreach: 35%</text>
+    <text x="-60" y="75" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• PR &amp; Events: 20%</text>
+  </g>
+  
+  <!-- Operations Breakdown -->
+  <g transform="translate(630, 420)">
+    <rect x="-100" y="-80" width="200" height="160" rx="10" fill="#F0F9FF" stroke="#0EA5E9" stroke-width="1"/>
+    <text x="0" y="-55" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">Operations</text>
+    <text x="0" y="-35" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">RM 0.8M</text>
+    
+    <!-- Mini Pie Chart -->
+    <g transform="translate(0, 5) scale(0.4)">
+      <!-- Staff (50%) -->
+      <path d="M 0 0 L 0 -60 A 60 60 0 0 1 60 0 Z" fill="#0EA5E9" opacity="0.8"/>
+      
+      <!-- Office (30%) -->
+      <path d="M 0 0 L 60 0 A 60 60 0 0 1 0 60 Z" fill="#0EA5E9" opacity="0.6"/>
+      
+      <!-- Services (20%) -->
+      <path d="M 0 0 L 0 60 A 60 60 0 0 1 -60 0 Z" fill="#0EA5E9" opacity="0.4"/>
+      
+      <!-- Other (0%) -->
+      <path d="M 0 0 L -60 0 A 60 60 0 0 1 0 -60 Z" fill="#0EA5E9" opacity="0.2"/>
+    </g>
+    
+    <!-- Breakdown Details -->
+    <text x="-60" y="45" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Team Salaries: 50%</text>
+    <text x="-60" y="60" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Office &amp; Equipment: 30%</text>
+    <text x="-60" y="75" text-anchor="start" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">• Legal &amp; Services: 20%</text>
+  </g>
+  
+  <!-- Investment Notes -->
+  <rect x="100" y="150" width="400" height="80" rx="10" fill="white" stroke="#0C4A6E" stroke-width="1"/>
+  <text x="300" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Investment Highlights</text>
+  <text x="300" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">• Seeking RM 4M seed funding for 40% equity</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#475569">• 18-month runway to Series A target</text>
+</svg> 

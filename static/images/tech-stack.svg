@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F0F9FF" opacity="0.3" rx="20"/>
+  
+  <!-- Title and Subtitle -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Technology Stack</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">EduPath Malaysia's Scalable Architecture</text>
+  
+  <!-- Layer Background Rectangles -->
+  <!-- Frontend Layer -->
+  <rect x="150" y="130" width="500" height="80" rx="10" fill="#0369A1" opacity="0.2" stroke="#0369A1" stroke-width="1"/>
+  
+  <!-- Application Layer -->
+  <rect x="150" y="220" width="500" height="80" rx="10" fill="#0284C7" opacity="0.2" stroke="#0284C7" stroke-width="1"/>
+  
+  <!-- AI/ML Layer -->
+  <rect x="150" y="310" width="500" height="80" rx="10" fill="#0EA5E9" opacity="0.2" stroke="#0EA5E9" stroke-width="1"/>
+  
+  <!-- Data Layer -->
+  <rect x="150" y="400" width="500" height="80" rx="10" fill="#38BDF8" opacity="0.2" stroke="#38BDF8" stroke-width="1"/>
+  
+  <!-- Infrastructure Layer -->
+  <rect x="150" y="490" width="500" height="80" rx="10" fill="#7DD3FC" opacity="0.2" stroke="#7DD3FC" stroke-width="1"/>
+  
+  <!-- Layer Labels -->
+  <text x="120" y="170" text-anchor="end" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0369A1">Frontend</text>
+  <text x="120" y="260" text-anchor="end" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0284C7">Application</text>
+  <text x="120" y="350" text-anchor="end" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">AI/ML</text>
+  <text x="120" y="440" text-anchor="end" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#38BDF8">Data</text>
+  <text x="120" y="530" text-anchor="end" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#7DD3FC">Infrastructure</text>
+  
+  <!-- Frontend Technologies -->
+  <g transform="translate(200, 170)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0369A1" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0369A1">React</text>
+  </g>
+  
+  <g transform="translate(300, 170)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0369A1" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0369A1">React</text>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#0369A1">Native</text>
+  </g>
+  
+  <g transform="translate(400, 170)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0369A1" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0369A1">Next.js</text>
+  </g>
+  
+  <g transform="translate(500, 170)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0369A1" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0369A1">Tailwind</text>
+  </g>
+  
+  <g transform="translate(600, 170)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0369A1" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0369A1">PWA</text>
+  </g>
+  
+  <!-- Application Technologies -->
+  <g transform="translate(200, 260)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0284C7" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0284C7">Node.js</text>
+  </g>
+  
+  <g transform="translate(300, 260)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0284C7" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0284C7">Express</text>
+  </g>
+  
+  <g transform="translate(400, 260)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0284C7" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0284C7">GraphQL</text>
+  </g>
+  
+  <g transform="translate(500, 260)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0284C7" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0284C7">REST API</text>
+  </g>
+  
+  <g transform="translate(600, 260)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0284C7" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0284C7">Auth0</text>
+  </g>
+  
+  <!-- AI/ML Technologies -->
+  <g transform="translate(200, 350)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0EA5E9">TensorFlow</text>
+  </g>
+  
+  <g transform="translate(300, 350)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0EA5E9">PyTorch</text>
+  </g>
+  
+  <g transform="translate(400, 350)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0EA5E9">NLP</text>
+  </g>
+  
+  <g transform="translate(500, 350)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0EA5E9">OpenAI</text>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#0EA5E9">API</text>
+  </g>
+  
+  <g transform="translate(600, 350)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0EA5E9">Python</text>
+  </g>
+  
+  <!-- Data Technologies -->
+  <g transform="translate(200, 440)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#38BDF8">MongoDB</text>
+  </g>
+  
+  <g transform="translate(300, 440)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#38BDF8">PostgreSQL</text>
+  </g>
+  
+  <g transform="translate(400, 440)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#38BDF8">Redis</text>
+  </g>
+  
+  <g transform="translate(500, 440)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#38BDF8">Elastic</text>
+    <text x="0" y="-5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#38BDF8">Search</text>
+  </g>
+  
+  <g transform="translate(600, 440)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#38BDF8" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#38BDF8">BigQuery</text>
+  </g>
+  
+  <!-- Infrastructure Technologies -->
+  <g transform="translate(200, 530)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#7DD3FC" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#7DD3FC">AWS</text>
+  </g>
+  
+  <g transform="translate(300, 530)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#7DD3FC" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#7DD3FC">Docker</text>
+  </g>
+  
+  <g transform="translate(400, 530)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#7DD3FC" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#7DD3FC">K8s</text>
+  </g>
+  
+  <g transform="translate(500, 530)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#7DD3FC" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#7DD3FC">CI/CD</text>
+  </g>
+  
+  <g transform="translate(600, 530)">
+    <circle cx="0" cy="0" r="25" fill="white" stroke="#7DD3FC" stroke-width="1.5"/>
+    <text x="0" y="5" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#7DD3FC">CDN</text>
+  </g>
+  
+  <!-- Connecting Lines Between Layers -->
+  <line x1="200" y1="195" x2="200" y2="235" stroke="#0369A1" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="300" y1="195" x2="300" y2="235" stroke="#0369A1" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="400" y1="195" x2="400" y2="235" stroke="#0369A1" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="500" y1="195" x2="500" y2="235" stroke="#0369A1" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="600" y1="195" x2="600" y2="235" stroke="#0369A1" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <line x1="200" y1="285" x2="200" y2="325" stroke="#0284C7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="300" y1="285" x2="300" y2="325" stroke="#0284C7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="400" y1="285" x2="400" y2="325" stroke="#0284C7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="500" y1="285" x2="500" y2="325" stroke="#0284C7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="600" y1="285" x2="600" y2="325" stroke="#0284C7" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <line x1="200" y1="375" x2="200" y2="415" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="300" y1="375" x2="300" y2="415" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="400" y1="375" x2="400" y2="415" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="500" y1="375" x2="500" y2="415" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="600" y1="375" x2="600" y2="415" stroke="#0EA5E9" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <line x1="200" y1="465" x2="200" y2="505" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="300" y1="465" x2="300" y2="505" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="400" y1="465" x2="400" y2="505" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="500" y1="465" x2="500" y2="505" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <line x1="600" y1="465" x2="600" y2="505" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Technical Benefits Callout -->
+  <rect x="680" y="250" width="100" height="200" rx="10" fill="#0EA5E9" opacity="0.1" stroke="#0EA5E9" stroke-width="1"/>
+  <text x="730" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Benefits</text>
+  
+  <g transform="translate(690, 300)">
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="40" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Scalable</text>
+  </g>
+  
+  <g transform="translate(690, 330)">
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="40" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Secure</text>
+  </g>
+  
+  <g transform="translate(690, 360)">
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="40" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Fast</text>
+  </g>
+  
+  <g transform="translate(690, 390)">
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="40" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Modern</text>
+  </g>
+  
+  <g transform="translate(690, 420)">
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="40" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#0C4A6E">Accessible</text>
+  </g>
+</svg> 

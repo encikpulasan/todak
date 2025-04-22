@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#EFF6FF" opacity="0.3" rx="20"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#1E40AF">Development Roadmap (36 months)</text>
+  
+  <!-- Timeline Line -->
+  <line x1="100" y1="250" x2="700" y2="250" stroke="#3B82F6" stroke-width="4"/>
+  
+  <!-- Timeline Points -->
+  <circle cx="100" cy="250" r="15" fill="#3B82F6"/>
+  <text x="100" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#1E40AF">START</text>
+  
+  <circle cx="250" cy="250" r="15" fill="#3B82F6"/>
+  <text x="250" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#1E40AF">6 MONTHS</text>
+  
+  <circle cx="400" cy="250" r="15" fill="#3B82F6"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#1E40AF">12 MONTHS</text>
+  
+  <circle cx="550" cy="250" r="15" fill="#3B82F6"/>
+  <text x="550" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#1E40AF">24 MONTHS</text>
+  
+  <circle cx="700" cy="250" r="15" fill="#3B82F6"/>
+  <text x="700" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#1E40AF">36 MONTHS</text>
+  
+  <!-- Phase 1: Research & Foundation -->
+  <rect x="100" y="120" width="150" height="80" rx="10" fill="#DBEAFE"/>
+  <text x="175" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Research &amp;</text>
+  <text x="175" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Foundation</text>
+  <line x1="175" y1="200" x2="175" y2="235" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Phase 2: MVP Development -->
+  <rect x="250" y="300" width="150" height="80" rx="10" fill="#BFDBFE"/>
+  <text x="325" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">MVP</text>
+  <text x="325" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Development</text>
+  <line x1="325" y1="300" x2="325" y2="265" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Phase 3: Platform Launch -->
+  <rect x="400" y="120" width="150" height="80" rx="10" fill="#93C5FD"/>
+  <text x="475" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Platform</text>
+  <text x="475" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Launch</text>
+  <line x1="475" y1="200" x2="475" y2="235" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Phase 4: Feature Expansion -->
+  <rect x="550" y="300" width="150" height="80" rx="10" fill="#60A5FA"/>
+  <text x="625" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Feature</text>
+  <text x="625" y="355" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#1E40AF">Expansion</text>
+  <line x1="625" y1="300" x2="625" y2="265" stroke="#3B82F6" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Key Milestones -->
+  <!-- Research & Foundation -->
+  <g transform="translate(100, 400)">
+    <rect width="15" height="15" fill="#DBEAFE" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Initial partnerships</text>
+  </g>
+  
+  <g transform="translate(100, 420)">
+    <rect width="15" height="15" fill="#DBEAFE" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">User research</text>
+  </g>
+  
+  <!-- MVP Development -->
+  <g transform="translate(275, 400)">
+    <rect width="15" height="15" fill="#BFDBFE" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Core features</text>
+  </g>
+  
+  <g transform="translate(275, 420)">
+    <rect width="15" height="15" fill="#BFDBFE" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Alpha/beta testing</text>
+  </g>
+  
+  <!-- Platform Launch -->
+  <g transform="translate(450, 400)">
+    <rect width="15" height="15" fill="#93C5FD" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Public release</text>
+  </g>
+  
+  <g transform="translate(450, 420)">
+    <rect width="15" height="15" fill="#93C5FD" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Institution coverage (50%)</text>
+  </g>
+  
+  <!-- Feature Expansion -->
+  <g transform="translate(625, 400)">
+    <rect width="15" height="15" fill="#60A5FA" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">Advanced analytics</text>
+  </g>
+  
+  <g transform="translate(625, 420)">
+    <rect width="15" height="15" fill="#60A5FA" rx="3"/>
+    <text x="25" y="12" font-family="Arial, sans-serif" font-size="12" fill="#1E40AF">AI-powered guidance</text>
+  </g>
+  
+  <!-- Legend -->
+  <text x="400" y="460" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6B7280">Phased implementation approach with clear development milestones</text>
+</svg> 

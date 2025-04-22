@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#F0F9FF" opacity="0.3" rx="20"/>
+  
+  <!-- Title -->
+  <text x="400" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Early Investor Benefits</text>
+  <text x="400" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">Why Invest in EduPath Malaysia Now</text>
+  
+  <!-- Central Icon -->
+  <circle cx="400" cy="190" r="60" fill="#0EA5E9" opacity="0.8"/>
+  <text x="400" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">SEED</text>
+  <text x="400" y="215" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="white">ROUND</text>
+  
+  <!-- Benefit 1: Higher Equity -->
+  <g transform="translate(150, 320)">
+    <rect width="200" height="120" rx="15" fill="#0EA5E9" opacity="0.2"/>
+    <circle cx="100" cy="35" r="20" fill="#0EA5E9"/>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">1</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Higher Equity Stake</text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">40% offered at seed vs.</text>
+    <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">15% at Series A</text>
+  </g>
+  
+  <!-- Benefit 2: Board Representation -->
+  <g transform="translate(450, 320)">
+    <rect width="200" height="120" rx="15" fill="#0EA5E9" opacity="0.2"/>
+    <circle cx="100" cy="35" r="20" fill="#0EA5E9"/>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">2</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Board Representation</text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">2 board seats reserved</text>
+    <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">for seed investors</text>
+  </g>
+  
+  <!-- Benefit 3: Valuation Discount -->
+  <g transform="translate(150, 460)">
+    <rect width="200" height="120" rx="15" fill="#0EA5E9" opacity="0.2"/>
+    <circle cx="100" cy="35" r="20" fill="#0EA5E9"/>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">3</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Valuation Discount</text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">RM 10M valuation now vs.</text>
+    <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">RM 30M+ at Series A</text>
+  </g>
+  
+  <!-- Benefit 4: Market Growth -->
+  <g transform="translate(450, 460)">
+    <rect width="200" height="120" rx="15" fill="#0EA5E9" opacity="0.2"/>
+    <circle cx="100" cy="35" r="20" fill="#0EA5E9"/>
+    <text x="100" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="white">4</text>
+    <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Market Growth</text>
+    <text x="100" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">8x ROI projected</text>
+    <text x="100" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">within 5 years</text>
+  </g>
+  
+  <!-- Connection Lines -->
+  <line x1="400" y1="250" x2="250" y2="320" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="400" y1="250" x2="550" y2="320" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="250" y1="440" x2="250" y2="460" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="550" y1="440" x2="550" y2="460" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Participation Terms -->
+  <rect x="275" y="200" width="250" height="80" rx="10" fill="#0EA5E9" opacity="0.1"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0C4A6E">Minimum Investment: RM 500K</text>
+  <text x="400" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">Total Seed Round: RM 4M</text>
+  <text x="400" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#0C4A6E">Limited to 8 strategic investors</text>
+</svg> 

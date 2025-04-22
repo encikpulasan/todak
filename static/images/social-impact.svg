@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f0f9ff" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" fill="#1e40af" text-anchor="middle" font-weight="bold">Social Impact Metrics</text>
+  
+  <!-- Impact Indicators -->
+  <g transform="translate(100, 100)">
+    <!-- Student decision satisfaction -->
+    <g transform="translate(0, 0)">
+      <rect width="600" height="50" rx="8" ry="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <rect width="450" height="50" rx="8" ry="8" fill="#3b82f6" opacity="0.7"/>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold">Student Decision Satisfaction</text>
+      <text x="575" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="end">75%</text>
+    </g>
+    
+    <!-- Career pathway alignment -->
+    <g transform="translate(0, 70)">
+      <rect width="600" height="50" rx="8" ry="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <rect width="360" height="50" rx="8" ry="8" fill="#3b82f6" opacity="0.7"/>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold">Career Pathway Alignment</text>
+      <text x="575" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="end">60%</text>
+    </g>
+    
+    <!-- TVET adoption increases -->
+    <g transform="translate(0, 140)">
+      <rect width="600" height="50" rx="8" ry="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <rect width="300" height="50" rx="8" ry="8" fill="#3b82f6" opacity="0.7"/>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold">TVET Adoption Increases</text>
+      <text x="575" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="end">50%</text>
+    </g>
+    
+    <!-- Institution-student matching -->
+    <g transform="translate(0, 210)">
+      <rect width="600" height="50" rx="8" ry="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <rect width="390" height="50" rx="8" ry="8" fill="#3b82f6" opacity="0.7"/>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold">Institution-Student Matching</text>
+      <text x="575" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="end">65%</text>
+    </g>
+    
+    <!-- Employment outcomes -->
+    <g transform="translate(0, 280)">
+      <rect width="600" height="50" rx="8" ry="8" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <rect width="420" height="50" rx="8" ry="8" fill="#3b82f6" opacity="0.7"/>
+      <text x="20" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold">Employment Outcomes</text>
+      <text x="575" y="30" font-family="Arial, sans-serif" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="end">70%</text>
+    </g>
+  </g>
+  
+  <!-- Footnote -->
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Projected impact metrics based on initial pilot programs and similar initiatives globally</text>
+</svg> 

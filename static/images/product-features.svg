@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f9ff" rx="20"/>
+  
+  <!-- Title and Subtitle -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#0C4A6E">Product Features</text>
+  <text x="400" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#0C4A6E">EduPath Malaysia's Comprehensive Learning Platform</text>
+  
+  <!-- Central Platform Icon -->
+  <circle cx="400" cy="230" r="90" fill="#0EA5E9" opacity="0.2"/>
+  <circle cx="400" cy="230" r="70" fill="#0EA5E9" opacity="0.3"/>
+  <circle cx="400" cy="230" r="50" fill="#0EA5E9" opacity="0.4"/>
+  <text x="400" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="#0C4A6E">EduPath</text>
+  <text x="400" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="22" fill="#0C4A6E">Core</text>
+  
+  <!-- Feature 1: AI-Driven Learning Paths -->
+  <g transform="translate(190, 130)">
+    <!-- Feature Circle -->
+    <circle cx="0" cy="0" r="65" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+    <!-- Icon -->
+    <circle cx="0" cy="-25" r="20" fill="#0EA5E9" opacity="0.2"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">AI</text>
+    <!-- Title -->
+    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">AI-Driven</text>
+    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Learning Paths</text>
+    <!-- Description -->
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Personalized learning</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">based on student data</text>
+    <!-- Connecting Line -->
+    <line x1="55" y1="40" x2="150" y2="90" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+  
+  <!-- Feature 2: Local Curriculum Integration -->
+  <g transform="translate(190, 330)">
+    <!-- Feature Circle -->
+    <circle cx="0" cy="0" r="65" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+    <!-- Icon -->
+    <circle cx="0" cy="-25" r="20" fill="#0EA5E9" opacity="0.2"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">MY</text>
+    <!-- Title -->
+    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Local Curriculum</text>
+    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Integration</text>
+    <!-- Description -->
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Aligned with Malaysian</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">education standards</text>
+    <!-- Connecting Line -->
+    <line x1="55" y1="-20" x2="150" y2="-90" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+  
+  <!-- Feature 3: Progress Analytics -->
+  <g transform="translate(610, 130)">
+    <!-- Feature Circle -->
+    <circle cx="0" cy="0" r="65" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+    <!-- Icon -->
+    <circle cx="0" cy="-25" r="20" fill="#0EA5E9" opacity="0.2"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">📊</text>
+    <!-- Title -->
+    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Progress</text>
+    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Analytics</text>
+    <!-- Description -->
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Detailed insights on</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">student performance</text>
+    <!-- Connecting Line -->
+    <line x1="-55" y1="40" x2="-150" y2="90" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+  
+  <!-- Feature 4: Collaborative Learning -->
+  <g transform="translate(610, 330)">
+    <!-- Feature Circle -->
+    <circle cx="0" cy="0" r="65" fill="white" stroke="#0EA5E9" stroke-width="2"/>
+    <!-- Icon -->
+    <circle cx="0" cy="-25" r="20" fill="#0EA5E9" opacity="0.2"/>
+    <text x="0" y="-20" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="#0EA5E9">👥</text>
+    <!-- Title -->
+    <text x="0" y="10" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Collaborative</text>
+    <text x="0" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Learning</text>
+    <!-- Description -->
+    <text x="0" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">Virtual study groups &amp;</text>
+    <text x="0" y="65" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">peer learning tools</text>
+    <!-- Connecting Line -->
+    <line x1="-55" y1="-20" x2="-150" y2="-90" stroke="#0EA5E9" stroke-width="2" stroke-dasharray="4,4"/>
+  </g>
+  
+  <!-- Feature Details Section -->
+  <rect x="100" y="420" width="600" height="160" rx="10" fill="white" stroke="#0EA5E9" stroke-width="1"/>
+  
+  <!-- Section Header -->
+  <text x="400" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#0C4A6E">Key Platform Differentiators</text>
+  
+  <!-- Feature Details List -->
+  <g transform="translate(130, 475)">
+    <!-- Bullet 1 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Multi-Device Compatibility</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Seamless experience across web, mobile, and tablet platforms</text>
+  </g>
+  
+  <g transform="translate(130, 510)">
+    <!-- Bullet 2 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Bilingual Support</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Full platform available in both Bahasa Malaysia and English</text>
+  </g>
+  
+  <g transform="translate(130, 545)">
+    <!-- Bullet 3 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Offline Learning Mode</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Downloadable content for areas with limited connectivity</text>
+  </g>
+  
+  <g transform="translate(450, 475)">
+    <!-- Bullet 4 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Gamified Learning Elements</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Badges, rewards, and challenges to increase engagement</text>
+  </g>
+  
+  <g transform="translate(450, 510)">
+    <!-- Bullet 5 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Parent &amp; Teacher Dashboards</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Dedicated interfaces for monitoring student progress</text>
+  </g>
+  
+  <g transform="translate(450, 545)">
+    <!-- Bullet 6 -->
+    <circle cx="0" cy="0" r="5" fill="#0EA5E9"/>
+    <text x="15" y="5" font-family="Arial, sans-serif" font-weight="bold" font-size="14" fill="#0C4A6E">Virtual Tutoring</text>
+    <text x="30" y="25" font-family="Arial, sans-serif" font-size="12" fill="#64748b">AI-assisted and human tutor integration options</text>
+  </g>
+</svg> 
